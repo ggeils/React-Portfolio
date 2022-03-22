@@ -8,7 +8,6 @@ function About() {
             <hr></hr>
             <div>
                 <img class="mb-5" id="avatar" src="https://avatars.githubusercontent.com/u/95538913?v=4" alt="Profile Picture" />
-
                 <p>
                 Full-Stack web developer and recent graduate of the UT Austin Coding Bootcamp. I am currently looking for a role as a Junior Software Developer.
                 </p>
