@@ -12,3 +12,9 @@
   nav a:hover {
     text-decoration: none;
   }
+
+  .icon {
+    padding: 10px;
+    height: 100px;
+  }
+
