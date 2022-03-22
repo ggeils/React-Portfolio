@@ -11,7 +11,7 @@ function Navigation(props) {
             <h4>George Geils</h4>
           </div>
         </NavLink>
-        <ul class="navbar-nav ml-auto navitem-indent">
+        <ul class="navbar-nav ml-auto">
           <li class="nav-item">
             <NavLink to="/about">
               <div class="text-light">About Me</div>

@@ -1,0 +1,14 @@
+.footer { 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+  }
+
+  .navbar-nav > li{
+    margin-left:40px;
+    margin-right:40px;
+  }
+  
+  nav a:hover {
+    text-decoration: none;
+  }
