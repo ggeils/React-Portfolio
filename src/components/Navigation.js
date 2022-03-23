@@ -1,7 +1,8 @@
 import React from "react";
 import { Navbar } from "react-bootstrap";
-import {NavLink} from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
+// Function to display the navigation bar
 function Navigation(props) {
   return (
     <div>
