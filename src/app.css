@@ -18,3 +18,72 @@
     height: 100px;
   }
 
+  .wrapper {
+    padding-top: 50px;
+    justify-content: space-around;
+    height: 100%;
+    display: flex;
+    overflow: auto;
+    flex-flow: row wrap;
+    padding: 10px;
+    align-content: flex-start;
+  }
+
+  .card {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 400px;
+  margin: 2rem;
+  position: relative;
+  width: 400px;
+  box-shadow: 0 2px 2px var(--cultured), 0 6px 12px var(--cultured);
+}
+
+.card .img-container {
+  height: 75%;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.card .img-container img {
+  width: 100%;
+  padding: 25px;
+  margin-bottom: 20px;
+  background-color: white;
+}
+
+.card .content {
+  font-size: 18px;
+  background-color: white;
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+}
+
+.card-title{
+  margin-top: 10px;
+  color: black;
+}
+
+.project-title {
+  color: black;
+  background-color: white;
+}
+
+.project-icons-container {
+  background-color: white;
+}
+
+.project-icon {
+  background-color: white;
+  padding: 5px;
+}
+
+.topics {
+  font-size: small;
+  font-style: italic;
+  color: black;
+  background-color: white;
+}

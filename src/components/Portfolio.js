@@ -11,7 +11,7 @@ function Portfolio() {
   return (
     <section className="container">
       <div className="project">
-        <h2 className="top-title">Portfolio</h2>
+        <h2>Portfolio</h2>
         <hr></hr>
       </div>
 
